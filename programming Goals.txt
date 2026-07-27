@@ -12,3 +12,11 @@ Programming Goals:
 2. Build programmes to simplify my work
 3. Create games
 =================================
+
+
+=================================
+Programming Goals:
+1. Being able to contribute to the open source projects im interested in
+2. Build my own apps for my specific needs 
+3. Getting into a big tech company 
+=================================
