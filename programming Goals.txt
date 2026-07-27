@@ -20,3 +20,10 @@ Programming Goals:
 2. Build my own apps for my specific needs 
 3. Getting into a big tech company 
 =================================
+
+=================================
+Programming Goals:
+1. Become an AI Engineer
+2. Build web & mobile apps
+3. Start my own tech startup
+=================================
