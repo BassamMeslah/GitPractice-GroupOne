@@ -20,7 +20,12 @@ Programming Goals:
 2. Build my own apps for my specific needs 
 3. Getting into a big tech company 
 =================================
-
+=================================
+Programming Goals:
+1.learn a new programming language
+2.develop practical programming skill
+3.build a new application or model
+================================== 
 =================================
 Programming Goals:
 1. Become an AI Engineer
